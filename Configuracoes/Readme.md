@@ -1,8 +1,8 @@
 # Configurações a serem realizadas no VSCode 
 
-O objetivo desse repositório é mostrar alterações que podem ser realizadas no VSCode para que facilitem um bom desenvolvimento de nossos códigos.
+O objetivo desse repositório é mostrar alterações que podem ser realizadas no VSCode para que facilitem e nos ajudem a termos um bom desenvolvimento de nossos códigos.
 
-### Configurações a serem realizadas dentro do VSCode
+### Acessando as configurações dentro do VSCode
 
 1. Entre no VSCode e siga o passo abaixo para abrir o arquivo de configurações:
 File -> Preferences -> Setings ou apenas apertar (CTRL) + (,)
@@ -46,3 +46,16 @@ Abaixo estão as configurações que inseri e irei explicar uma a uma para enten
 }
 
 ```
++ Os itens de workbench são de plugins que alteram a parte visual, mas iremos falar de [plugins aqui](https://github.com/ildasilva/help-on-vscode/tree/master/Plugins)
+
++ O **editor.fontFamily** serve para setarmos a fonte que usaremos, a **Fira Code** é uma fonte desenvolvida para programador@s. Ela possui 'Ligatures' que nos permite que alguns símbolos que utilizamos sejam mais visíveis, ou seja, as 'Ligatures' permite que vários caracteres sejam representados por um único símbolo. Veja abaixo um exemplo:
+
+![Exemplo da Fira Code](https://raw.githubusercontent.com/ildasilva/help-on-vscode/master/img/ligatureexamples.png)
+
+Para utilizarmos o Fira Code é necessário primeiramente realizarmos o download da fonte através do link https://github.com/tonsky/FiraCode/releases/download/1.207/FiraCode_1.207.zip ou acessando o :octocat: https://github.com/tonsky/FiraCode -> Solution -> Download
+
+Após baixar o pacote da fonte é necessário entrar na pasta ttt e instalar todas:
+
+![Instalação da fonte Fira Code](https://raw.githubusercontent.com/ildasilva/help-on-vscode/master/img/fira-code-font-download.png)
+
+Logo após voltamos em nosso arquivo JSON, adicionamos **"editor.fontFamily": "Fira Code"** e habilitamos o **"editor.fontLigatures": true,**
