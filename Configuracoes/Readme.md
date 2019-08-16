@@ -12,7 +12,7 @@ Ou apenas (CTRL) + (,)
 
 ![Preferences Settings](https://raw.githubusercontent.com/ildasilva/help-on-vscode/master/img/preferences-settings.png)
 
-1. Após aberto é necessário escolher a opção conforme ilustrada na imagem abaixo para que o arquivo de configuração seja aberto no formato JSON
+2. Após aberto é necessário escolher a opção conforme ilustrada na imagem abaixo para que o arquivo de configuração seja aberto no formato JSON
 
 ![Settings em modo JSON](https://raw.githubusercontent.com/ildasilva/help-on-vscode/master/img/settings-json.png) 
 
