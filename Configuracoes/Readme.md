@@ -91,7 +91,7 @@ Para saber mais sobre emmet veja aqui na documentação do [VSCode.](https://cod
 
 + O **"javascript.updateImportsOnFileMove.enabled": "never"** previne que nosso editor tente mudar o que foi importado automaticamente. 
 
-+ O **"breadcrumbs.enabled": true,** ativa o breadcrumb que é um caminho do arquivo, assim, quando possuirmos arquivos com o mesmo nome, basta visualizarmos no breadcrubm a pasta em que ele está salvo.
++ O **"breadcrumbs.enabled": true,** ativa o breadcrumb que é um caminho do arquivo, assim, quando possuirmos arquivos com o mesmo nome, basta visualizarmos o caminho no breadcrumb e encontrarmos a pasta em que ele está salvo.
 
-![Breadcrumbs](https://raw.githubusercontent.com/ildasilva/help-on-vscode/master/img/breadcrumbs.png)
+    ![Breadcrumbs](https://raw.githubusercontent.com/ildasilva/help-on-vscode/master/img/breadcrumbs.png)
 
