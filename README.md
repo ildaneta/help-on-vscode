@@ -10,8 +10,8 @@ Acredito que outros desenvolvedor@s assim como eu querem o desenvolvimento de se
 #### Escolha e siga para a área desejada:
 ###### Em breve será disponibilizado nos idiomas :brazil: e :es:
 
-+ [Plugins](https://github.com/ildasilva/help-on-vscode/tree/master/Plugins)
 + [Configurações](https://github.com/ildasilva/help-on-vscode/tree/master/Configuracoes)
++ [Plugins](https://github.com/ildasilva/help-on-vscode/tree/master/Plugins)
 
 #### Autora:
 

@@ -80,5 +80,18 @@ Logo após voltamos em nosso arquivo JSON, adicionamos **"editor.fontFamily": "F
 + O **"editor.tabSize": 2** serve para deixar definido que o tab seja de 2 espaçamentos, pois por padrão é de 4.
 
 + O **"editor.rulers": [80,120]** serve para que sejam exibidas as colunas mínimas e máximas para termos um código limpo e que não seja escrito com 200 colunas por exemplo. Nesse caso, parametrizei como 80 no mínimo e o máximo de 120 colunas.
+  
+  ![Editor Rules](https://raw.githubusercontent.com/ildasilva/help-on-vscode/master/img/rules.png)
 
++ O **"emmet.syntaxProfiles": {"javascript": "jsx"}** nada mais é que uma configuração ou plugin dependendo do editor de texto que permite aumentar nossa produtividade ao declarar nosso código. Nesse caso parametrizamos o javascritp para que ele possa ser utilizado com emmet. 
+
+Para saber mais sobre emmet veja aqui na documentação do [VSCode.](https://code.visualstudio.com/docs/editor/emmet)
+
++ O **"emmet.includeLanguages": {"javascript": "javascriptreact"}** faz com que o emmet em react utilize a notação do JavaScript e não a do CSS como por exemplo criar um ClassName ao invés do Class.
+
++ O **"javascript.updateImportsOnFileMove.enabled": "never"** previne que nosso editor tente mudar o que foi importado automaticamente. 
+
++ O **"breadcrumbs.enabled": true,** ativa o breadcrumb que é um caminho do arquivo, assim, quando possuirmos arquivos com o mesmo nome, basta visualizarmos no breadcrubm a pasta em que ele está salvo.
+
+![Breadcrumbs](https://raw.githubusercontent.com/ildasilva/help-on-vscode/master/img/breadcrumbs.png)
 
