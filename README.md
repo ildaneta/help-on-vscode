@@ -13,6 +13,10 @@ Acredito que outros desenvolvedor@s assim como eu querem o desenvolvimento de se
 + [Configurações](https://github.com/ildasilva/help-on-vscode/tree/master/Configuracoes)
 + [Plugins](https://github.com/ildasilva/help-on-vscode/tree/master/Plugins)
 
+#### Caso você queira utilizar o @Babel e o Webpack e não sabe como configurar seu ambiente de forma manual, dê uma olhada no tutorial abaixo:
+
++ [Configurar @Babel e Webpack de forma manual](https://gist.github.com/ildasilva/16b81907fa2c16c95ffd215b0f59833a)
+
 #### Autora:
 
 + [Ilda Emanoely](https://www.linkedin.com/in/ilda-silva-neta/)
