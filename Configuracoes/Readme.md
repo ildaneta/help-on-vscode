@@ -22,7 +22,7 @@ Ou apenas (CTRL) + (,)
 
 Abaixo estão as configurações que inseri e irei explicar uma a uma para entendermos as funcionalidades que elas possuem
 
-```
+```javascript
 {
     "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "vscode-icons",
