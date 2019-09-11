@@ -6,7 +6,7 @@ O objetivo desse repositório é mostrar alterações que podem ser realizadas n
 
 1. Entre no VSCode e siga o passo abaixo para abrir o arquivo de configurações:
 
-File -> Preferences -> Setings 
+File → Preferences → Setings 
 
 Ou apenas (CTRL) + (,)
 
