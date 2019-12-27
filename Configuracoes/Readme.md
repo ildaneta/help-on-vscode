@@ -37,6 +37,7 @@ Abaixo estão as configurações que inseri e irei explicar uma a uma para enten
         80,
         120
     ],
+    "prettier.singleQuote": true,
     "emmet.syntaxProfiles": {
         "javascript": "jsx"
     },
@@ -86,6 +87,8 @@ Logo após voltamos em nosso arquivo JSON, adicionamos **"editor.fontFamily": "F
 + O **"emmet.syntaxProfiles": {"javascript": "jsx"}** nada mais é que uma configuração ou plugin dependendo do editor de texto que permite aumentar nossa produtividade ao declarar nosso código. Nesse caso parametrizamos o javascritp para que ele possa ser utilizado com emmet. 
 
 Para saber mais sobre emmet veja aqui na documentação do [VSCode.](https://code.visualstudio.com/docs/editor/emmet)
+
++ O **"prettier.singleQuote": true** serve para utilizar aspas simples 
 
 + O **"emmet.includeLanguages": {"javascript": "javascriptreact"}** faz com que o emmet em react utilize a notação do JavaScript e não a do CSS como por exemplo criar um ClassName ao invés do Class.
 
