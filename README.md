@@ -11,7 +11,6 @@ Acredito que outros desenvolvedor@s assim como eu querem o desenvolvimento de se
 ###### Em breve será disponibilizado nos idiomas :brazil: e :es:
 
 + [Configurações](https://github.com/ildasilva/help-on-vscode/tree/master/Configuracoes)
-+ [Plugins para o VSCode](https://github.com/ildasilva/help-on-vscode/tree/master/Plugins)
 + [Plugins para o Google Chrome](https://github.com/ildasilva/help-on-vscode/tree/master/Extensoes%20Google%20Chome)
 
 #### Caso você queira utilizar o @Babel e o Webpack e não sabe como configurar seu ambiente de forma manual, dê uma olhada no tutorial abaixo:
@@ -20,5 +19,5 @@ Acredito que outros desenvolvedor@s assim como eu querem o desenvolvimento de se
 
 #### Autora:
 
-+ [Ilda Emanoely](https://www.linkedin.com/in/ilda-silva-neta/)
++ [Ilda Neta](https://www.linkedin.com/in/ilda-silva-neta/)
 
