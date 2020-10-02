@@ -19,5 +19,5 @@ Acredito que outros desenvolvedor@s assim como eu querem o desenvolvimento de se
 
 #### Autora:
 
-+ [Ilda Neta](https://www.linkedin.com/in/ilda-silva-neta/)
++ [Ilda Neta](https://www.linkedin.com/in/ildaneta/)
 
