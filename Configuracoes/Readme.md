@@ -25,10 +25,10 @@ Abaixo estão as configurações que inseri e irei explicar uma a uma para enten
 ```javascript
 {
     "workbench.colorTheme": "Dracula",
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "editor.fontSize": 15,
+    "editor.fontSize": 14,
     "editor.renderLineHighlight": "gutter",
     "editor.formatOnSave": true,
     "editor.parameterHints.enabled": false,
