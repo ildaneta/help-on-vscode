@@ -38,6 +38,9 @@ Abaixo estão as configurações que inseri e irei explicar uma a uma para enten
         120
     ],
     "prettier.singleQuote": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
     "emmet.syntaxProfiles": {
         "javascript": "jsx"
     },
@@ -47,6 +50,8 @@ Abaixo estão as configurações que inseri e irei explicar uma a uma para enten
     "javascript.updateImportsOnFileMove.enabled": "never",
     "breadcrumbs.enabled": true,
     "window.zoomLevel": 1,
+    "notebook.compactView": false,
+    "explorer.compactFolders": false, 
 }
 
 ```
